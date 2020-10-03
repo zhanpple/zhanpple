@@ -2,8 +2,6 @@
 <img src=".\file\jetpack_donut.png"/>
 
 
-## 开源仓库 
-
 ### 1.[高仿AndroidStudio 颜色选择器 以及其他自定义控件](https://github.com/zhanpple/colorPicker)
 
 
